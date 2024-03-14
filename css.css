@@ -1,0 +1,21 @@
+.bg{
+  background-image: linear-gradient(to right, #0099f7, #f11712);
+    padding: 10px;
+    text-align: center;
+
+}
+body{
+  background-image: linear-gradient(to left, #0099f7, #f11712);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.redText {
+    color: red;
+    font-weight: bold;
+  }
+  .greenText {
+    color:rgb(47, 0, 128);
+    font-weight: bold;
+  }
+
